@@ -26,6 +26,11 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript. This 
 
 ---
 
+![Project Image](https://instasize.com/p/0cca139b4d837d4d87b27b61106da095b48a239fb1982fbb75c6a9e6e3951baa)
+
+
+---
+
 ## 📚 What I Learned
 
 - How to fetch API data using `fetch()`
